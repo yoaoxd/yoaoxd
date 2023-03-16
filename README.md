@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan M De Sousa</h1>
 <h3 align="center">I'm DevOps and Cloud Architect - one of the coolest :D</h3>
 
+<div>
+  <img src="https://st2.depositphotos.com/44176906/47900/i/600/depositphotos_479003298-stock-photo-a-dog-in-glasses-and.jpg" style="display:block;margin:0 auto">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoaoxd&label=Profile%20views&color=0e75b6&style=flat" alt="yoaoxd" /> </p>
 
 - 🔭 I’m currently working on **Baires Dev as DevOps**
