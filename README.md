@@ -8,6 +8,11 @@ With **10+ years of experience in IT**, my background spans cloud architecture, 
 
 ## Selected Projects
 
+### [SOC2 Compliancer](https://github.com/yoaoxd/soc2-compliancer)
+A multi-cloud platform for infrastructure control analysis and Terraform bundle generation. Combines a Go API and React dashboard with AWS, Azure, and GCP modules, control mappings, scan history, and reviewable remediation proposals.
+
+**Focus:** Terraform · Cloud Security · SOC 2 Control Mapping · Go · Multi-Cloud Architecture
+
 ### [Infrastructure Drift Monitor](https://github.com/yoaoxd/infrastructure-drift-monitor)
 A Python CLI that reads Terraform JSON plans and reports recorded drift separately from proposed changes. Produces text or JSON reports for reviewed remediation workflows.
 
@@ -29,9 +34,6 @@ A local Python lab for SQLite backup and restore, request-based SLO reporting, a
 **Focus:** Backup & Restore · SLOs · Operational Runbooks
 
 These repositories are small reference implementations. Their READMEs describe usage, design decisions, and current validation limits.
-
-### SOC2 Compliancer
-Terraform modules focused on infrastructure controls relevant to SOC 2, secure configuration, and control verification. Source is not currently linked publicly.
 
 ## Engineering experience
 
