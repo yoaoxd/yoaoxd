@@ -6,41 +6,36 @@ I build reliable cloud platforms and automate the infrastructure and delivery wo
 
 With **10+ years of experience in IT**, my background spans cloud architecture, platform engineering, automation, and backend development. I've built production platforms from the ground up and led cloud migrations in direct collaboration with CTOs, including through leadership transitions.
 
-## What I work on
-
-- **Cloud platforms:** Designing and operating infrastructure across Azure, AWS, Google Cloud, and Oracle Cloud.
-- **Kubernetes:** Running production workloads, including GPU-accelerated LLM services.
-- **Infrastructure as Code:** Building repeatable infrastructure with Terraform and Ansible.
-- **Delivery automation:** Creating component-specific CI/CD pipelines and GitOps workflows.
-- **Security and reliability:** Implementing infrastructure controls supporting SOC 2 examinations and maintaining production availability.
-- **Technical leadership:** Connecting architectural decisions with business needs and helping teams navigate infrastructure changes.
-
 ## Selected Projects
 
+### [Infrastructure Drift Monitor](https://github.com/yoaoxd/infrastructure-drift-monitor)
+A Python CLI that reads Terraform JSON plans and reports recorded drift separately from proposed changes. Produces text or JSON reports for reviewed remediation workflows.
+
+**Focus:** Terraform · Python · Infrastructure Governance
+
+### [GitOps Developer Platform](https://github.com/yoaoxd/gitops-developer-platform)
+A command-line scaffold that turns a service definition into Kubernetes manifests, with optional Flux resources and a documented Git-based rollback workflow.
+
+**Focus:** Kubernetes · FluxCD · Service Templates
+
+### [LLM Inference Platform](https://github.com/yoaoxd/llm-inference-platform)
+A CLI that renders Kubernetes manifests for GPU-backed inference and estimates GPU costs from user-supplied rates.
+
+**Focus:** Kubernetes · GPU Resource Configuration · LLM Serving
+
+### [Cloud Reliability Lab](https://github.com/yoaoxd/cloud-reliability-lab)
+A local Python lab for SQLite backup and restore, request-based SLO reporting, and a documented recovery exercise.
+
+**Focus:** Backup & Restore · SLOs · Operational Runbooks
+
+These repositories are small reference implementations. Their READMEs describe usage, design decisions, and current validation limits.
+
 ### SOC2 Compliancer
-Terraform modules focused on infrastructure controls relevant to SOC 2, secure configuration, and control verification.
+Terraform modules focused on infrastructure controls relevant to SOC 2, secure configuration, and control verification. Source is not currently linked publicly.
 
-**Focus:** Terraform · Infrastructure Security · Policy as Code
+## Engineering experience
 
-### GitOps Developer Platform
-A Kubernetes platform project focused on reproducible deployments, reusable service templates, observability, and rollback workflows.
-
-**Focus:** Kubernetes · Helm · FluxCD / ArgoCD · Developer Experience
-
-### LLM Inference Platform
-An AI infrastructure project focused on GPU-backed inference, resource management, operational metrics, and cost visibility.
-
-**Focus:** Kubernetes · GPU Infrastructure · LLM Serving · Observability
-
-### Cloud Reliability Lab
-A reliability engineering project focused on failure recovery, backup restoration, alerting, SLOs, and operational runbooks.
-
-**Focus:** Disaster Recovery · SLOs · Incident Response · Reliability Engineering
-
-### Infrastructure Drift Monitor
-An infrastructure automation project focused on detecting differences between Terraform configuration and deployed resources, reporting drift, and supporting reviewed remediation.
-
-**Focus:** Terraform · Drift Detection · CI/CD · Infrastructure Governance
+My production work includes building an Azure platform from the ground up, leading cloud migrations with CTO leadership, creating component-specific delivery pipelines, and operating GPU-backed LLM services on Kubernetes. The public projects above explore selected parts of that work; they are not copies of client infrastructure.
 
 ## Technologies & Tools
 
@@ -62,8 +57,8 @@ An infrastructure automation project focused on detecting differences between Te
 
 ## Connect with me
 
-- 🌍 Based in **Caracas, Venezuela**
-- 💼 Open to remote **Senior / Staff Platform Engineer** opportunities
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juanmdsousa/)
-- 📫 [juanmdsousa@gmail.com](mailto:juanmdsousa@gmail.com)
-- 🗣️ Spanish · English · Portuguese
+- Based in **Caracas, Venezuela**
+- Open to remote **Senior / Staff Platform Engineer** opportunities
+- [LinkedIn](https://www.linkedin.com/in/juanmdsousa/)
+- [juanmdsousa@gmail.com](mailto:juanmdsousa@gmail.com)
+- Spanish · English · Portuguese
