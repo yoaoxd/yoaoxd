@@ -13,27 +13,14 @@ A multi-cloud platform for infrastructure control analysis and Terraform bundle 
 
 **Focus:** Terraform · Cloud Security · SOC 2 Control Mapping · Go · Multi-Cloud Architecture
 
-### [Infrastructure Drift Monitor](https://github.com/yoaoxd/infrastructure-drift-monitor)
-A Python CLI that reads Terraform JSON plans and reports recorded drift separately from proposed changes. Produces text or JSON reports for reviewed remediation workflows.
+| Project | What it demonstrates |
+| --- | --- |
+| [Infrastructure Drift Monitor](https://github.com/yoaoxd/infrastructure-drift-monitor) | Python CLI reporting recorded drift and proposed changes from Terraform JSON plans. |
+| [GitOps Developer Platform](https://github.com/yoaoxd/gitops-developer-platform) | Kubernetes service scaffolding, optional Flux resources, and Git-based rollback guidance. |
+| [LLM Inference Platform](https://github.com/yoaoxd/llm-inference-platform) | Kubernetes manifests for GPU inference and cost estimates from supplied rates. |
+| [Cloud Reliability Lab](https://github.com/yoaoxd/cloud-reliability-lab) | SQLite backup and restore, request-based SLO reports, and recovery runbooks. |
 
-**Focus:** Terraform · Python · Infrastructure Governance
-
-### [GitOps Developer Platform](https://github.com/yoaoxd/gitops-developer-platform)
-A command-line scaffold that turns a service definition into Kubernetes manifests, with optional Flux resources and a documented Git-based rollback workflow.
-
-**Focus:** Kubernetes · FluxCD · Service Templates
-
-### [LLM Inference Platform](https://github.com/yoaoxd/llm-inference-platform)
-A CLI that renders Kubernetes manifests for GPU-backed inference and estimates GPU costs from user-supplied rates.
-
-**Focus:** Kubernetes · GPU Resource Configuration · LLM Serving
-
-### [Cloud Reliability Lab](https://github.com/yoaoxd/cloud-reliability-lab)
-A local Python lab for SQLite backup and restore, request-based SLO reporting, and a documented recovery exercise.
-
-**Focus:** Backup & Restore · SLOs · Operational Runbooks
-
-These repositories are small reference implementations. Their READMEs describe usage, design decisions, and current validation limits.
+The repositories document their scope, design decisions, and validation limits.
 
 ## Engineering experience
 
