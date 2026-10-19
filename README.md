@@ -63,4 +63,4 @@ My production work includes building an Azure platform from the ground up, leadi
 - [juanmdsousa@gmail.com](mailto:juanmdsousa@gmail.com)
 - Spanish · English · Portuguese
 
-PD: The past 2 years, I contributed through my dedicated work account, @jdesousa-bc. That activity is separate from this personal profile.
+PD: The past 2 years, I contributed through my dedicated work account, [@jdesousa-bc](https://github.com/jdesousa-bc). That activity is separate from this personal profile.
