@@ -15,15 +15,32 @@ With **10+ years of experience in IT**, my background spans cloud architecture, 
 - **Security and reliability:** Implementing infrastructure controls supporting SOC 2 examinations and maintaining production availability.
 - **Technical leadership:** Connecting architectural decisions with business needs and helping teams navigate infrastructure changes.
 
-## Currently building
+## Selected Projects
 
-### SOC2 Compliancer
+### 🛡️ SOC2 Compliancer
+Terraform modules focused on infrastructure controls relevant to SOC 2, secure configuration, and control verification.
 
-A project focused on reusable Terraform modules that help implement infrastructure controls relevant to SOC 2.
+**Focus:** Terraform · Infrastructure Security · Policy as Code
 
-The goal is to make secure infrastructure easier to provision, understand, and verify through documented controls, repeatable configurations, and automated checks.
+### 🚀 GitOps Developer Platform
+A Kubernetes platform project focused on reproducible deployments, reusable service templates, observability, and rollback workflows.
 
-> Infrastructure tooling supports compliance efforts; it does not replace organizational processes or an independent SOC 2 examination.
+**Focus:** Kubernetes · Helm · FluxCD / ArgoCD · Developer Experience
+
+### 🧠 LLM Inference Platform
+An AI infrastructure project focused on GPU-backed inference, resource management, operational metrics, and cost visibility.
+
+**Focus:** Kubernetes · GPU Infrastructure · LLM Serving · Observability
+
+### 🔧 Cloud Reliability Lab
+A reliability engineering project focused on failure recovery, backup restoration, alerting, SLOs, and operational runbooks.
+
+**Focus:** Disaster Recovery · SLOs · Incident Response · Reliability Engineering
+
+### 🔍 Infrastructure Drift Monitor
+An infrastructure automation project focused on detecting differences between Terraform configuration and deployed resources, reporting drift, and supporting reviewed remediation.
+
+**Focus:** Terraform · Drift Detection · CI/CD · Infrastructure Governance
 
 ## Technologies I work with
 
