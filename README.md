@@ -1,4 +1,4 @@
-# Hi, I'm Juan M. De Sousa 👋
+# Hi, I'm Juan De Sousa.
 
 ### Senior Platform Engineer · Cloud Architect
 
