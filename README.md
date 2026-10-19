@@ -42,43 +42,23 @@ An infrastructure automation project focused on detecting differences between Te
 
 **Focus:** Terraform · Drift Detection · CI/CD · Infrastructure Governance
 
-## Technologies I work with
+## Technologies & Tools
 
-### Cloud & Infrastructure
+**Cloud:** Microsoft Azure · AWS · Google Cloud · Oracle Cloud Infrastructure
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,ansible,linux&theme=dark" alt="Azure, AWS, Google Cloud, Terraform, Ansible, Linux" />
-</p>
+**Containers & Orchestration:** Kubernetes · Azure Kubernetes Service (AKS) · Docker · Helm
 
-**Microsoft Azure · AWS · Google Cloud · Oracle Cloud Infrastructure · Terraform · Ansible · Linux**
+**Infrastructure as Code:** Terraform · Ansible
 
-### Containers & Delivery
+**CI/CD & GitOps:** GitHub Actions · Jenkins · FluxCD · ArgoCD · Git
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,jenkins,git&theme=dark" alt="Kubernetes, Docker, GitHub Actions, Jenkins, Git" />
-</p>
+**Development & Automation:** Python · Bash · Flask · Sanic
 
-**Kubernetes · Azure Kubernetes Service (AKS) · Docker · Helm · GitHub Actions · Jenkins · FluxCD · ArgoCD · GitOps**
+**Databases:** PostgreSQL · MySQL · MongoDB Atlas · Microsoft SQL Server · Oracle Database
 
-### Development & Automation
+**AI Infrastructure:** GPU Workloads on Kubernetes · GPU-Accelerated LLM Deployment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,flask&theme=dark" alt="Python, Bash, Flask" />
-</p>
-
-**Python · Bash · Flask · Sanic · Backend Microservices · Infrastructure Automation**
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL, MongoDB" />
-</p>
-
-**PostgreSQL · MySQL · MongoDB Atlas · Microsoft SQL Server · Oracle Database**
-
-### AI Infrastructure
-
-**GPU Workloads on Kubernetes · GPU-Accelerated LLM Deployment · Infrastructure for AI Services**
+**Systems:** Linux
 
 ## Connect with me
 
