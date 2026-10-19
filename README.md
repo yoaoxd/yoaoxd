@@ -55,8 +55,6 @@ My production work includes building an Azure platform from the ground up, leadi
 
 **Systems:** Linux
 
-The past 2 years, I contributed through my dedicated work account, @jdesousa-bc. That activity is separate from this personal profile.
-
 ## Connect with me
 
 - Based in **Caracas, Venezuela**
@@ -64,3 +62,5 @@ The past 2 years, I contributed through my dedicated work account, @jdesousa-bc.
 - [LinkedIn](https://www.linkedin.com/in/juanmdsousa/)
 - [juanmdsousa@gmail.com](mailto:juanmdsousa@gmail.com)
 - Spanish · English · Portuguese
+
+PD: The past 2 years, I contributed through my dedicated work account, @jdesousa-bc. That activity is separate from this personal profile.
