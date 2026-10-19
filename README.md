@@ -35,7 +35,16 @@ Terraform modules focused on infrastructure controls relevant to SOC 2, secure c
 
 ## Engineering experience
 
-My production work includes building an Azure platform from the ground up, leading cloud migrations with CTO leadership, creating component-specific delivery pipelines, and operating GPU-backed LLM services on Kubernetes. The public projects above explore selected parts of that work; they are not copies of client infrastructure.
+My background combines hands-on platform engineering with technical leadership across cloud migrations, delivery automation, and production operations.
+
+- **Platform architecture:** Built an Azure platform from the ground up, using AKS and infrastructure automation to support production services. My work on this platform included maintaining availability above 99.5%.
+- **Migration leadership:** Led infrastructure migration initiatives in direct collaboration with CTOs and maintained technical continuity during CTO transitions.
+- **Delivery engineering:** Designed component-specific CI/CD pipelines and GitOps workflows with FluxCD. My experience also includes Jenkins-based delivery workflows in AWS environments.
+- **Infrastructure as Code:** Used Terraform to reproduce an existing enterprise architecture for a Badgr deployment, translating infrastructure requirements into repeatable configuration.
+- **AI infrastructure:** Deployed and operated GPU-backed LLM services on Kubernetes, combining cloud infrastructure work with the operational requirements of inference workloads.
+- **SOC 2 infrastructure controls:** Experience implementing infrastructure controls supporting SOC 2 examinations, with knowledge of how security and operational controls relate to cloud platform design and day-to-day infrastructure management. I approach SOC 2 as an ongoing control and evidence discipline; infrastructure configuration alone does not establish organizational compliance.
+
+The public projects above explore selected parts of this experience. They are independent reference implementations, not copies of client infrastructure.
 
 ## Technologies & Tools
 
