@@ -1,4 +1,3 @@
-
 # Hi, I'm Juan De Sousa.
 
 ### Senior Platform Engineer · Cloud Architect
@@ -23,7 +22,7 @@ A multi-cloud platform for infrastructure control analysis and Terraform bundle 
 
 The repositories document their scope, design decisions, and validation limits.
 
-## Eng## Personal Products
+## Personal Products
 
 ### [GeoVZ](https://geovz.com)
 A web-based geography game focused on Venezuela, where players identify locations from real-world imagery. Designed around location discovery and competitive play.
@@ -39,7 +38,7 @@ A local discovery and planning platform for Caracas, helping users find business
 
 **Source code:** Private repositories · **[Visit Planea](https://web.planea.chat)**
 
-ineering experience
+## Engineering experience
 
 My background combines hands-on platform engineering with technical leadership across cloud migrations, delivery automation, and production operations.
 
