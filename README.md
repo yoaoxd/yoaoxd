@@ -15,6 +15,7 @@ A multi-cloud platform for infrastructure control analysis and Terraform bundle 
 
 | Project | What it demonstrates |
 | --- | --- |
+| [AI DevOps Prompts](https://github.com/yoaoxd/ai-devops-prompts) | Reusable prompts for CI/CD reviews, automated testing, and DevOps troubleshooting, with a worked example and evaluation criteria. |
 | [Infrastructure Drift Monitor](https://github.com/yoaoxd/infrastructure-drift-monitor) | Python CLI reporting recorded drift and proposed changes from Terraform JSON plans. |
 | [GitOps Developer Platform](https://github.com/yoaoxd/gitops-developer-platform) | Kubernetes service scaffolding, optional Flux resources, and Git-based rollback guidance. |
 | [LLM Inference Platform](https://github.com/yoaoxd/llm-inference-platform) | Kubernetes manifests for GPU inference and cost estimates from supplied rates. |
@@ -59,7 +60,7 @@ The public projects above explore selected parts of this experience. They are in
 
 **Infrastructure as Code:** Terraform · Ansible
 
-**CI/CD & GitOps:** GitHub Actions · Jenkins · FluxCD · ArgoCD · Git
+**CI/CD & GitOps:** GitHub Actions · Jenkins · FluxCD · ArgoCD · Git · [AI-assisted CI/CD and testing prompts](https://github.com/yoaoxd/ai-devops-prompts)
 
 **Development & Automation:** Python · Bash · Flask · Sanic
 
