@@ -4,7 +4,7 @@
 
 I build and operate cloud platforms that help engineering teams deploy, recover, and maintain production services with confidence. I bring **10+ years of experience in IT**, hands-on infrastructure ownership, and technical leadership working directly with CTOs.
 
-**Based in Caracas, Venezuela (UTC−4). Open to remote Senior Platform Engineer roles and long-term engagements with U.S. teams.**
+**Based in Caracas, Venezuela (UTC−4).**
 
 [LinkedIn](https://linkedin.com/in/juanmdsousa/) · [Email](mailto:juanmdsousa@gmail.com)
 
