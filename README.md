@@ -57,7 +57,7 @@ These are independent reference implementations. Each repository documents its s
 ## Products I build
 
 - **[GeoVZ](https://geovz.com):** A web geography game focused on Venezuela, combining real-world imagery, location discovery, and competitive play. Source code is private.
-- **[Planea](https://web.planea.chat):** An AI-assisted local discovery and planning platform for businesses, services, and events in Caracas. Source code is private.
+- **[Planea](https://www.planea.chat):** An AI-assisted local discovery and planning platform for businesses, services, and events in Caracas. Source code is private.
 
 ## Let's connect
 
